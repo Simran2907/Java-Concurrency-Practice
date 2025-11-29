@@ -1,4 +1,4 @@
-package com.interviewPrep.CustomThread;
+package com.interviewPrep;
 
 import java.util.HashMap;
 import java.util.Map;
